@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Video Storyboard (bring your own ffmpeg)",
+    "description": "Read a video: one addressable storyboard image plus a time-coded text index, with video_zoom / video_probe / video_locate / video_watch. ffmpeg/ffprobe are not shipped — install them or run scripts/fetch-ffmpeg.mjs."
+  }
+}

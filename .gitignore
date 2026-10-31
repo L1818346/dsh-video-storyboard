@@ -1,0 +1,8 @@
+# 本地大件：ffmpeg 二进制由 scripts/fetch-ffmpeg.mjs 落盘，不进仓库
+vendor/
+node_modules/
+_dl/
+.tmp/
+*.log
+.DS_Store
+Thumbs.db

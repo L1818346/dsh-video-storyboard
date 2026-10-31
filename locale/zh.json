@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "视频分镜（ffmpeg 需自备）",
+    "description": "读视频：一张可寻址的分镜图 + 一份带时间码的文本清单，另有 video_zoom / video_probe / video_locate / video_watch。ffmpeg/ffprobe 不随仓库分发，需自备或运行 scripts/fetch-ffmpeg.mjs。"
+  }
+}

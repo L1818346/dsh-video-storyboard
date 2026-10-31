@@ -1,0 +1,12 @@
+{
+  "name": "dsh-video-storyboard",
+  "description": "视频读取：分镜图 + 带时间码的文本清单（video_storyboard / video_zoom / video_probe / video_locate / video_watch）。ffmpeg/ffprobe 需自备。",
+  "version": "0.7.0",
+  "entry": {
+    "name": "dsh-video-storyboard",
+    "inject": [
+      "tools",
+      "attachments"
+    ]
+  }
+}
